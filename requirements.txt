@@ -15,3 +15,4 @@ plotly
 pyspark
 psycopg2
 duckdb
+torch
