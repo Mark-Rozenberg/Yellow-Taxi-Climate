@@ -16,3 +16,6 @@ pyspark
 psycopg2
 duckdb
 torch
+lightgbm
+catboost
+prophet
